@@ -1,6 +1,7 @@
 ## Site
+- My homepage 
 
-## Features
+## Library 
 -  Fully Responsive
 -  HTML5
 -  CSS3
